@@ -1,16 +1,17 @@
+<<<<<<< HEAD
 # LockNShare - Decentralized File Sharing UI
 
 A modern, glassmorphism-style React application for decentralized file sharing with AI-powered security features.
 
 ## Features
 
-- 🎨 **Modern Glassmorphism Design** - Beautiful glass cards with blur effects
-- 🌈 **Gradient Backgrounds** - Blue-violet color palette with smooth gradients
-- ⚡ **Framer Motion Animations** - Smooth transitions and hover effects
-- 📱 **Responsive Design** - Works perfectly on desktop and mobile
-- 🔐 **Security Dashboard** - AI-powered threat detection and monitoring
-- 📁 **File Management** - Upload, organize, and search your files
-- 🎯 **Smart Search** - AI-powered file search capabilities
+- **Modern Glassmorphism Design** - Beautiful glass cards with blur effects
+- **Gradient Backgrounds** - Blue-violet color palette with smooth gradients
+- **Framer Motion Animations** - Smooth transitions and hover effects
+- **Responsive Design** - Works perfectly on desktop and mobile
+- **Security Dashboard** - AI-powered threat detection and monitoring
+- **File Management** - Upload, organize, and search your files
+- **Smart Search** - AI-powered file search capabilities
 
 ## Tech Stack
 
@@ -102,3 +103,5 @@ src/
 ## License
 
 This project is licensed under the MIT License.
+
+
